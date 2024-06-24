@@ -1,0 +1,6 @@
+[submodule "tsk-public-assignment-webhook-repo"]
+	path = tsk-public-assignment-webhook-repo
+	url = https://github.com/ideepankarsharma2003/tsk-public-assignment-webhook-repo.git
+[submodule "tsk-public-assignment-action-repo"]
+	path = tsk-public-assignment-action-repo
+	url = https://github.com/ideepankarsharma2003/tsk-public-assignment-action-repo.git
